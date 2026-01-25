@@ -1,5 +1,5 @@
 # About Me
-I'm a fourth year Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software development.
+I'm a fourth year Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software systems.
 
 I like working on projects that allow me to take a solution from start to finish. 
 
