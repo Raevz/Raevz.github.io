@@ -50,6 +50,7 @@ Email: rmckay37@my.bcit.ca
 ### NFC reader attendance system (RTOS)(2025)
 **Why I think it's cool:** In this project I was able to focus on the architecture of the hardware and firmware. I also really focused on a high level of documentation for this project.
 - [Attendance System Code](https://github.com/Raevz/Pico2w_NFC_Logger/blob/main/README.md)
+- [Video](https://youtu.be/3g00hOUaAI4)
   
 ![Photo 2026-02-07, 12 49 07 PM](https://github.com/user-attachments/assets/38b82c26-2060-42f7-a2a8-7c0b28bc489c)
 
@@ -59,7 +60,7 @@ Email: rmckay37@my.bcit.ca
 ### SCARA robot simulation (2025)
 **Why I think it's cool:** This project (for the ELEX robotics course) taught me about operating within a 3D space, coordinate systems, forward and inverse kinematics, trajectories, and object tracking.
 - [SCARA Robot Code](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md)
-- please forgive my terrible camera quality.
+- [Virtual Robot Video](https://youtu.be/9ft4W6BRYhI) please forgive my terrible camera quality.
 
 <img width="1006" height="731" alt="image" src="https://github.com/user-attachments/assets/f4773487-0e7c-4df8-ad77-21c142c4e356" />
 
