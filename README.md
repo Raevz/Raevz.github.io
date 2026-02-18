@@ -41,14 +41,17 @@ You can find me at [LinkedIn](www.linkedin.com/in/ryan-mckay-3a798a348)
 # Projects I'm Proud to Share
 **C language**
 - [NFC reader attendance system (RTOS)(2025)](https://github.com/Raevz/Pico2w_NFC_Logger/blob/main/README.md)
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c5a2fdee-ca6f-43af-8e7f-4648e58fc1ac" />
+![Photo 2026-02-07, 12 49 07 PM](https://github.com/user-attachments/assets/38b82c26-2060-42f7-a2a8-7c0b28bc489c)
 
 **C++**
 - [SCARA robot simulation (2025)](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md)
 - [Coloured ball sorter (2024)](https://github.com/Raevz/Colour_Sorter/blob/main/README.md)
+- <img width="638" height="1033" alt="image" src="https://github.com/user-attachments/assets/fe384e2a-22d5-4c2f-9fee-beea7863b2f1" />
+
 
 **Python**
 - [Nao robot capstone project - Video only (2025-2026)](https://youtu.be/onvUL8-2nvM)
 
 **System Verilog**
 - [Ultrasonic radar system (2025)](https://github.com/Raevz/Radar/blob/main/README.md)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c5a2fdee-ca6f-43af-8e7f-4648e58fc1ac" />
