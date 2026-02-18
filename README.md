@@ -41,6 +41,7 @@ You can find me at [LinkedIn](www.linkedin.com/in/ryan-mckay-3a798a348)
 # Projects I'm Proud to Share
 **C language**
 - [NFC reader attendance system (RTOS)(2025)](https://github.com/Raevz/Pico2w_NFC_Logger/blob/main/README.md)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c5a2fdee-ca6f-43af-8e7f-4648e58fc1ac" />
 
 **C++**
 - [SCARA robot simulation (2025)](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md)
