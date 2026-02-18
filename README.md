@@ -1,6 +1,4 @@
----
-title: Ryan McKay
----
+
 
 ## About Me
 I'm a fourth year Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software systems.
