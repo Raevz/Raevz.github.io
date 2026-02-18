@@ -1,4 +1,7 @@
-
+---
+title: Ryan McKay
+description: Fourth-year Electrical Engineering student (BCIT)
+---
 
 ## About Me
 I'm a fourth year Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software systems.
@@ -8,7 +11,7 @@ I like working on projects that allow me to take a solution from start to finish
 I am currently working on a capstone project with other members of my team from BCIT. We are working to program a Nao robot (from Aldebaran Robotics) to perform to the specifications of the [UBC NEST Lab.](https://www.nestlab.ca/) This includes programming the robot to perform dances, stretches, and conversations. Programming is mainly in the proprietary software Choregraphe (Python based). If you're interested in the project please see the video linked in the projects section below and feel free to message me.  
 
 ## Contact Me
-You can find me at [LinkedIn.](www.linkedin.com/in/ryan-mckay-3a798a348)
+You can find me at [LinkedIn.](https://www.linkedin.com/in/ryan-mckay-3a798a348)
 
 Email: rmckay37@my.bcit.ca
 
