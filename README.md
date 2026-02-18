@@ -44,9 +44,11 @@ You can find me at [LinkedIn](www.linkedin.com/in/ryan-mckay-3a798a348)
 ![Photo 2026-02-07, 12 49 07 PM](https://github.com/user-attachments/assets/38b82c26-2060-42f7-a2a8-7c0b28bc489c)
 
 **C++**
-- [SCARA robot simulation (2025)](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md)
+- [SCARA robot simulation (2025)](https://github.com/Raevz/Virtual_Robotics/blob/main/README.md) please forgive my terrible camera quality.
+<img width="1006" height="731" alt="image" src="https://github.com/user-attachments/assets/f4773487-0e7c-4df8-ad77-21c142c4e356" />
+
 - [Coloured ball sorter (2024)](https://github.com/Raevz/Colour_Sorter/blob/main/README.md)
-- <img width="638" height="1033" alt="image" src="https://github.com/user-attachments/assets/fe384e2a-22d5-4c2f-9fee-beea7863b2f1" />
+<img width="638" height="1033" alt="image" src="https://github.com/user-attachments/assets/fe384e2a-22d5-4c2f-9fee-beea7863b2f1" />
 
 
 **Python**
