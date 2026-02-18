@@ -1,4 +1,8 @@
-# About Me
+---
+title: Ryan McKay
+---
+
+## About Me
 I'm a fourth year Electrical Engineering student at BCIT focused on practical embedded systems, robotics, and software systems.
 
 I like working on projects that allow me to take a solution from start to finish. 
@@ -12,7 +16,7 @@ Email: rmckay37@my.bcit.ca
 
 ---
 
-# What I’m focused on right now
+## What I’m focused on right now
 - Embedded firmware + RTOS patterns (task design, concurrency, logging, serial tooling)
 - Sensors and signal processing (radar-ish sensing, serial protocols, real-world noise)
 - Building “demoable” systems: repeatable builds, clear docs, clean interfaces
@@ -20,7 +24,7 @@ Email: rmckay37@my.bcit.ca
 
 ---
 
-# Skills (practical)
+## Skills (practical)
 **Embedded / Firmware**
 - C/C++, FreeRTOS-style tasking, interrupts, concurrency, debugging, serial tooling
 - Peripheral interfaces: UART, SPI, I2C, GPIO, PWM
